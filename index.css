@@ -10,9 +10,9 @@
 }
 
 .u-section-1 .u-video-1 {
-  width: 930px;
-  height: 523px;
-  margin: 315px auto 0;
+  width: 1058px;
+  height: 595px;
+  margin: 310px auto 0;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -30,18 +30,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 93px auto 0;
-}
-
-.u-section-1 .u-image-1 {
-  height: 778px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  width: 1720px;
-  margin: -761px -290px 20px;
+  margin: 26px auto 36px;
 }
 
 @media (max-width: 1199px) {
@@ -50,44 +39,35 @@
   }
 
   .u-section-1 .u-video-1 {
-    width: 797px;
-    height: 451px;
-    margin-top: 289px;
+    height: 523px;
+    margin-top: 288px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 103px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 794px;
-    width: 1470px;
-    margin-left: -265px;
-    margin-right: -265px;
-    margin-bottom: 0;
+    margin-top: 32px;
+    margin-bottom: 33px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 714px;
+    min-height: 692px;
   }
 
   .u-section-1 .u-video-1 {
-    width: 638px;
     height: 361px;
     margin-top: 222px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 1.125rem;
-    margin-top: 63px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 556px;
-    width: 1029px;
-    margin: -542px -154px -14px;
+    margin-bottom: 31px;
   }
 }
 
@@ -97,23 +77,18 @@
   }
 
   .u-section-1 .u-video-1 {
-    width: 323px;
     height: 183px;
     margin-top: 106px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.875rem;
     margin-top: 33px;
+    margin-bottom: -162px;
     padding: 3px 15px 4px 14px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 292px;
-    width: 540px;
-    margin-top: -440px;
-    margin-right: 250px;
-    margin-left: 300px;
   }
 }
 
@@ -123,21 +98,18 @@
   }
 
   .u-section-1 .u-video-1 {
-    width: 260px;
-    height: 148px;
+    height: 189px;
     margin-top: 102px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
-    margin-top: 41px;
+    margin-top: 7px;
+    margin-bottom: 14px;
     padding: 1px 9px 2px 8px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 306px;
-    width: 630px;
-    margin: -299px -145px 12px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 531px;
